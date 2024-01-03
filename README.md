@@ -1,6 +1,6 @@
 # Palace Window
 
-A python script that changes the light of a Wiz bulb depending on the weather.
+A python script that changes the light of a [Wiz bulb](https://www.wizconnected.com/en-ca/products/bulbs) depending on the weather.
 
 ## Install
 
