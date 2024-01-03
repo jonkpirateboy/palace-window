@@ -35,6 +35,9 @@ Change the city in the `palace-window-config/city.txt` file to what you want the
 If you want the script to start automatically when the pi is booted run this command:
 
 `crontab -e`
+
 Answer `1`
+
 Add this to the file:
+
 `@reboot /bin/sleep 30; /usr/bin/python /home/<your home directory>/palace-window.py`
