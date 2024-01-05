@@ -18,9 +18,9 @@ Install pip:
 
 `sudo apt install python3-pip`
 
-Install [Python weather](https://github.com/null8626/python-weather)
+Install [pywizlight](https://github.com/sbidy/pywizlight)
 
-`pip install python-weather`
+`pip install pywizlight`
 
 Put the file `palace-window.py` file and the `palace-window-config` directory in your `home` directory of your pi.
 
